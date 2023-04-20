@@ -1,3 +1,6 @@
+Урок 1.
+https://www.youtube.com/watch?v=UkwpJyvf8CA&list=PLlKID9PnOE5jiWTTsshCXdz5qvg8JWezX
+
 Создаем проект, в нем главный файл, требования и докер для
 поднятия базы.
 
